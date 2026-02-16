@@ -76,12 +76,6 @@ This experiment includes:
 
 ---
 
-## 🔹 Additional UI View
-
-![Extra UI](./Photos/Screenshot%202026-02-16%20214504.png)
-
----
-
 # ⚙️ Installation & Setup
 
 ## Clone the repository
